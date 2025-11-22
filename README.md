@@ -1,11 +1,11 @@
 # Heart-Disease-Prediction
 <hr>
-Rakshit Raj 
-25BAI11234 
+Rakshit Raj <br>
+25BAI11234 <br>
 CSE (AI &amp; ML) Assignment 
 
-<br>
-## Overview
+<hr>
+<h2>OverView</h2>
 The Aim is to detect Heart Disease at initial stage before it get Chronic and compare machine learning models for predicting heart diesaese based on the clonical data provided by UCI Machine Learning Laboratoary.it uses algorithm like as Random Forest, Gradient Boosting, XGBoost, LightGBM, and CatBoost to classify whether patient has heart disease.
 
 ## DataSet
